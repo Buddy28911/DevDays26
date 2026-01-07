@@ -18,7 +18,9 @@ WIP Title
 - Why use a stem splitter?
     - Based on the most common use, you probably guessed that the most common use is for karaoke
     - Another popular use is sampling, particularly drums
+        - Other instruments like guitar, bass, & synths are not uncommon
     - DJs, producers, & musicians use stem separators for a capellas, remixes, and mashups
+        - Mention stem splitting goes back a long time
         - Would love to go on, but this is meant to be about ML
 - What do I use stem splitters for?
     - I use these tools to learn songs by ear, primarily for bass guitar.
